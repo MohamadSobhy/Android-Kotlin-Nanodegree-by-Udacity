@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">About Me</string>
-    <string name="name">Mohammad Sobhy</string>
-    <string name="star_image">Star Image</string>
-    <string name="bio_text">I am a passionate Mobile App Developer who loves to develop Mobile applications for all platforms. I have a Bachelor degree of Computer Science from Benha University at Egypt. I started learning Android with Java at my second year at college then i moved to learn Flutter framework at the last year of my college. I have been working as a Flutter developer for a year and i backed to learn native Android Development but now with Kotlin programming language.</string>
-    <string name="done">Done</string>
-    <string name="whats_your_nickname">What is your nickname?</string>
-</resources>
